@@ -7,6 +7,7 @@ Features:
 - duplicate words detection
 - auto resize elements with the window
 - 3 columns for languages, one for group, one for notes/comments
+- ascending/descending sorting for all columns
 
 ToDo:
 - fix duplication detection.
